@@ -1,0 +1,58 @@
+body{
+    padding: 0;
+    border: 0;
+}
+#header {
+    background-color: blanchedalmond;
+    height: 70px;
+    width: 100%;
+    border: 2px;
+}
+#header ul{
+    float: right;
+    display: inline-flex;
+    list-style-type: none;
+}
+#header ul li{
+    padding: 10px;
+}
+#header img{
+    padding:8px;
+}
+
+#about {
+    background-color: peachpuff;
+    height: 350px;
+    width: 100%;
+    display: inline-flex;
+    border: 2px;
+}
+.about1 {
+    
+    padding: 20px 20px 20px 30px;
+}
+#about img{
+    padding: 20px;
+}
+
+
+#service {
+    background-color: lightgoldenrodyellow;
+    height: 350px;
+    width: 100%;
+    display: inline-flex;
+    border: 2px;
+}
+#service p{
+    width: 50%;
+    padding: 20px 20px 20px 30px;
+}
+#service img{
+    padding: 20px;
+}
+
+#contact form{
+    background-color: lightcyan;
+    padding: 20px 20px 20px 30px;
+
+}
